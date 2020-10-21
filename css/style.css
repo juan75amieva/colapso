@@ -5,7 +5,7 @@
      margin-left: 0px;
      height: 100%;
      width: 100%;
-     animation: movin001 180s infinite;
+     animation: movin001 84s infinite;
 
 
    }
@@ -18,7 +18,7 @@
      height: 100px;
      width: 100px;
      border-radius: 50%;
-     animation: movin002 90s infinite;
+     animation: movin002 42s infinite;
 
 
     }
@@ -33,7 +33,7 @@
     background: #25384b ;
     position:fixed;
     
-    animation: movin2 450s infinite;}
+    animation: movin2 21s infinite;}
         
 
     .circulo2{
@@ -45,7 +45,7 @@
     background: #25384b ;
     position:fixed;
     
-    animation: movin 30s infinite;}
+    animation: movin 10s infinite;}
     
     
     .circulo3{
@@ -71,7 +71,7 @@
     background: #cfcc19e3 ;
     position:fixed;
    
-    animation: movin 10s infinite;}
+    animation: movin 42s infinite;}
 
    .circulo5{
     width: 5px;
@@ -93,7 +93,7 @@
     background: #d5d6c4e3 ;
     position:fixed;
    
-    animation: movin 9s infinite;}
+    animation: movin 21s infinite;}
 
        .circulo7{
     width: 5px;
@@ -127,7 +127,7 @@
     background: #d5d6c4e3 ;
     position:fixed;
    
-    animation: movin 27s infinite;}
+    animation: movin 5s infinite;}
 
 
     .circulo10{
@@ -139,7 +139,7 @@
      background: #cad149e3 ;
      position:fixed;
     
-     animation: movin4 27s infinite;}
+     animation: movin4 2s infinite;}
 
      .circulo11{
           width: 5px;
@@ -150,7 +150,7 @@
           background: #d4da6de3 ;
           position:fixed;
          
-          animation: movin3 27s infinite;}
+          animation: movin3 4s infinite;}
 
 
      .circulo12{
@@ -162,7 +162,7 @@
                background: #9f21a3e3 ;
                position:fixed;
               
-               animation: movin5 27s infinite;}
+               animation: movin5 5s infinite;}
 
      .circulo13{
                     width: 5px;
@@ -173,7 +173,7 @@
                     background: #ee8712e3 ;
                     position:fixed;
                    
-                    animation: movin4 27s infinite;}
+                    animation: movin4 6s infinite;}
      
       .circulo14{
                width: 5px;
@@ -184,7 +184,7 @@
                background: #ce8080e3 ;
                position:fixed;
                         
-                animation: movin3 27s infinite;}
+                animation: movin3 7s infinite;}
 
           
 
