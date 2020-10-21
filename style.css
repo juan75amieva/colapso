@@ -1,5 +1,5 @@
    .fondo{
-     position: absolute;
+     position: fixed;
      background-color: rgb(fff);
      top:0px;
      margin-left: 0px;
@@ -19,7 +19,6 @@
      width: 100px;
      border-radius: 50%;
      animation: movin002 90s infinite;
-       
 
 
     }
@@ -129,6 +128,65 @@
     position:fixed;
    
     animation: movin 27s infinite;}
+
+
+    .circulo10{
+     width: 5px;
+     height:5px ;
+     top: 20%;
+     margin-left: 20%;
+     border-radius: 50%;
+     background: #cad149e3 ;
+     position:fixed;
+    
+     animation: movin4 27s infinite;}
+
+     .circulo11{
+          width: 5px;
+          height:5px ;
+          top: 80%;
+          margin-left: 80%;
+          border-radius: 50%;
+          background: #d4da6de3 ;
+          position:fixed;
+         
+          animation: movin3 27s infinite;}
+
+
+     .circulo12{
+               width: 5px;
+               height:5px ;
+               top: 20%;
+               margin-left: 80%;
+               border-radius: 50%;
+               background: #9f21a3e3 ;
+               position:fixed;
+              
+               animation: movin5 27s infinite;}
+
+     .circulo13{
+                    width: 5px;
+                    height:5px ;
+                    top: 80%;
+                    margin-left: 20%;
+                    border-radius: 50%;
+                    background: #ee8712e3 ;
+                    position:fixed;
+                   
+                    animation: movin4 27s infinite;}
+     
+      .circulo14{
+               width: 5px;
+               height:5px ;
+                top: 60%;
+               margin-left: 50%;
+               border-radius: 50%;
+               background: #ce8080e3 ;
+               position:fixed;
+                        
+                animation: movin3 27s infinite;}
+
+          
 
 
 
